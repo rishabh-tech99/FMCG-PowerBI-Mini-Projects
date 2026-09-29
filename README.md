@@ -85,7 +85,7 @@ This dashboard focuses on FMCG distribution and operational performance. It comp
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -97,7 +97,7 @@ This dashboard focuses on FMCG distribution and operational performance. It comp
 
 ---
 
-## 📈 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -113,7 +113,7 @@ This dashboard focuses on FMCG distribution and operational performance. It comp
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 FMCG-PowerBI-Mini-Projects/
