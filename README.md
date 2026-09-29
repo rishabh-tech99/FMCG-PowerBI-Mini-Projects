@@ -2,7 +2,7 @@
 
 This repository contains two Power BI mini projects developed for analysing FMCG business data. The projects focus on sales performance and distribution performance using interactive dashboards created in Microsoft Power BI.
 
-## 📊 Projects
+##  Projects
 
 ### 1. FMCG Sales Analysis Dashboard
 
